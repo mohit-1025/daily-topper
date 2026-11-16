@@ -6,6 +6,26 @@ Daily Topper is a complete, demo-ready web app: a pre-loaded guest student (Riya
 
 ![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white&style=flat-square) ![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 
+![Daily Topper landing page](docs/screenshots/landing.jpg)
+
+---
+
+## 📸 Screenshots
+
+| 📊 Dashboard | 🗓️ Study plan |
+| :---: | :---: |
+| ![Dashboard with today's tasks, streak and study time](docs/screenshots/dashboard.jpg) | ![Monthly study plan calendar](docs/screenshots/plan.jpg) |
+| ✅ Daily tasks | 📈 Progress & analytics |
+| ![Daily tasks with timer, skip and quiz-gated completion](docs/screenshots/tasks.jpg) | ![Study time charts, completion ring and quiz trends](docs/screenshots/progress.jpg) |
+| 📚 Subjects | 🧪 Exam mode |
+| ![Subjects with confidence ratings and covered topics](docs/screenshots/subjects.jpg) | ![Exam mode schedule upload](docs/screenshots/exam.jpg) |
+
+<p align="center">
+  <img src="docs/screenshots/mobile.jpg" alt="Daily Topper on a phone" width="320" />
+  <br />
+  <em>📱 Mobile: bottom tabs, stacked cards, bottom sheets.</em>
+</p>
+
 ---
 
 ## 🚀 Quick start
